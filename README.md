@@ -1,1 +1,1 @@
-# Bicopter-Control-Barrier-Function-
+# Bicopter-Control-Barrier-Function
